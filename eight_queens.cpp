@@ -19,6 +19,7 @@ int main() {
     }
     //Test
     int c=0;
+    
     //cout << endl;
     //for(int a=0;a<8;a++){for(int b=0;b<8;b++){cout<<arr[a][b];}cout<<endl;}
     for (int a = 0; a < 8; a++) {
